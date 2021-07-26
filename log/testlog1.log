@@ -1,0 +1,138 @@
+2021-04-04 23:25:32,849 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 09:12:59,167 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 09:13:07,223 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 09:35:22,385 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 09:35:32,549 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 19:47:28,451 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 19:49:32,959 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 20:01:44,229 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 20:09:03,099 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 20:09:12,013 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 20:13:17,801 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 20:13:27,009 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 20:57:46,552 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 21:06:49,939 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 21:19:12,963 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-05 21:31:40,727 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 21:32:11,394 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-05 21:32:58,959 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 21:33:14,314 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 21:33:32,875 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 21:53:34,966 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 21:55:25,487 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 21:55:47,323 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 21:56:11,032 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 22:00:29,083 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 22:01:52,685 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 22:02:08,006 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 22:02:27,638 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 22:11:15,957 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 22:12:34,307 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 22:12:50,447 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 22:13:07,397 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 22:17:09,111 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 22:17:20,832 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 22:20:09,779 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 22:21:34,789 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 22:21:51,505 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 22:22:11,000 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 22:34:48,776 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 22:35:22,018 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-05 22:35:49,933 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 22:36:04,312 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 22:36:19,205 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 22:36:36,009 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 22:36:53,156 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-05 22:37:49,812 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-05 22:55:39,364 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 22:55:52,126 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 22:56:10,033 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-05 22:56:47,439 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 22:57:02,744 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 22:57:21,939 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 22:57:39,365 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-05 22:58:34,975 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-05 22:59:04,061 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 23:03:20,598 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 23:03:32,908 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 23:03:53,778 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-05 23:04:35,554 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 23:04:57,605 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 23:05:24,502 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 23:05:45,072 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-05 23:06:52,227 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-05 23:10:44,852 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 23:10:55,787 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 23:14:23,150 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 23:16:44,095 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 23:17:04,972 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 23:23:06,133 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-05 23:23:33,840 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-05 23:23:53,132 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-05 23:25:03,498 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 23:27:04,473 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-05 23:27:18,967 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-05 23:27:38,854 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-05 23:28:18,615 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-05 23:28:32,349 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-05 23:28:49,629 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-05 23:29:07,835 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-05 23:29:55,047 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 00:00:35,779 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-06 00:00:54,436 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-06 00:01:11,663 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-06 00:01:52,569 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-06 00:02:09,547 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-06 00:02:28,813 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-06 00:02:49,424 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 00:03:30,263 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Failed
+2021-04-06 00:03:50,604 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 00:35:17,690 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-06 00:35:34,422 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-06 00:35:50,700 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-06 00:36:26,453 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-06 00:36:40,804 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-06 00:36:56,138 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-06 00:37:12,388 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 00:37:52,902 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Failed
+2021-04-06 00:38:09,005 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 00:48:29,625 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-06 00:48:46,601 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-06 00:49:02,874 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-06 00:49:40,756 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-06 00:49:53,561 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-06 00:50:08,734 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-06 00:50:24,729 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 00:50:58,547 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Failed
+2021-04-06 00:51:14,633 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 01:03:17,002 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-06 01:06:30,280 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-06 01:06:47,670 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-06 01:07:07,866 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-06 01:07:44,759 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-06 01:08:00,035 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-06 01:08:16,030 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-06 01:08:32,336 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 01:09:21,850 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 01:12:41,225 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-06 01:12:55,814 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-06 01:13:14,147 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-06 01:13:53,940 [main] INFO com.selenium.tests.BaseTest - Product Validation Test Case Passed
+2021-04-06 01:14:08,606 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-06 01:14:23,021 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-06 01:14:40,221 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 01:15:23,420 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 09:30:47,858 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-06 09:31:09,935 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-06 09:31:35,381 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-06 09:32:45,138 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-06 09:33:14,028 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-06 09:34:58,224 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 09:48:31,269 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed
+2021-04-06 09:48:56,243 [main] INFO com.selenium.tests.BaseTest - Test Case Passed
+2021-04-06 09:49:19,037 [main] INFO com.selenium.tests.BaseTest - Login Test Case Passed
+2021-04-06 09:50:31,323 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Passed
+2021-04-06 09:50:56,604 [main] INFO com.selenium.tests.BaseTest - Test Case Failed
+2021-04-06 09:51:23,774 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-04-06 09:52:33,131 [main] INFO com.selenium.tests.BaseTest - Login Test Case Failed
+2021-05-18 22:02:12,411 [main] INFO com.selenium.tests.BaseTest - Cart Test Case Failed

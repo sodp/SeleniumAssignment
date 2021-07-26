@@ -1,0 +1,7 @@
+com\selenium\tests\BaseTest.class
+com\selenium\tests\RegistrationTest.class
+com\selenium\tests\ContactUsTest.class
+com\selenium\tests\CartTest.class
+com\selenium\tests\LoginTest.class
+com\selenium\tests\ProductValidationTest.class
+util\ScreenShots.class

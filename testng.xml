@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <groups>
+    <run>
+   <include name="valid"/>
+   <include name="invalid"/>
+   </run>
+   </groups>
+    <classes>
+       <class name="com.selenium.tests.CartTest"/>
+       <class name="com.selenium.tests.ContactUsTest"/>
+       <class name="com.selenium.tests.LoginTest"/>
+       <class name="com.selenium.tests.RegistrationTest"/>     
+      <class name="com.selenium.tests.ProductValidationTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

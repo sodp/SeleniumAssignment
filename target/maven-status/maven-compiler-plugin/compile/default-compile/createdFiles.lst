@@ -1,0 +1,5 @@
+com\selenium\pages\ShirtPage.class
+com\selenium\pages\CartPage.class
+com\selenium\pages\SignInPage.class
+com\selenium\pages\LoginPage.class
+com\selenium\pages\ContactUsPage.class
